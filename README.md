@@ -1,7 +1,5 @@
 # myName
 
-This Vue application has a component that renders my name boldly at the center of the page.
-
 ## Project setup
 ```
 npm install
