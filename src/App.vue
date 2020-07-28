@@ -18,10 +18,15 @@ export default {
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #111111;
-  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+  *,
+  ::before,
+  ::after {
+    background-color: #111111;
+    color: #EEEEEE;
+  }
+
 </style>
