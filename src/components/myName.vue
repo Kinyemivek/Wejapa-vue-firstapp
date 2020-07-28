@@ -12,8 +12,3 @@ export default {
 } 
 </script>
 
-<style scoped>
-  h1 {
-    font-size: 50px;
-  } 
-</style>
